@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/maski-novoe-pokolenie/masks-wiki/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Маски Новое Поколение/Masks Wiki/","tags":["gardenEntry"]}
 ---
 
