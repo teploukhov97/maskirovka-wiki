@@ -6,5 +6,5 @@
 
 Все лорные записи, включая персонажей и истории, распределены по соответствующим папкам слева. 
 
-Базовые ходы и памятка по правилам находится [тут](https://disk.yandex.ru/i/zwmlVghLXH3-5Q). 
-Плейбуки вот [тут](https://disk.yandex.ru/i/qytveH2ltTXW_Q)
+	[Базовые ходы и памятка по правилам.](https://disk.yandex.ru/i/AWVeDEfv2R56fQ)
+	[Плейбуки.](https://disk.yandex.ru/i/XeBXwe7_qhHSdw)
