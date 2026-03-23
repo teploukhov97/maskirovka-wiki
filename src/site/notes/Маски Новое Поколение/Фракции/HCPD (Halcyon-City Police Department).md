@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Маски Новое Поколение/Фракции/HCPD (Halcyon-City Police Department)/"}
+{"dg-publish":true,"permalink":"/Маски Новое Поколение/Фракции/HCPD (Halcyon-City Police Department)/","dg-note-properties":{}}
 ---
 
 

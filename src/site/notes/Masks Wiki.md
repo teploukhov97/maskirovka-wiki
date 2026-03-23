@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Masks Wiki/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Masks Wiki/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 Этот сайт был создан по мотивам настольно-ролевой игры «Маски: Новое Поколение», для упрощения жизни игрокам и [мне](https://t.me/shoebillmire), ведущему. 
